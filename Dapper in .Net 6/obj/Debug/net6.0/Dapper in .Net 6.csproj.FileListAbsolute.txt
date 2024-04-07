@@ -1,0 +1,39 @@
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\appsettings.Development.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\appsettings.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Dapper in .Net 6.exe
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Dapper in .Net 6.deps.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Dapper in .Net 6.runtimeconfig.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Dapper in .Net 6.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Dapper in .Net 6.pdb
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Dapper.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.csproj.AssemblyReference.cache
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.AssemblyInfoInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.AssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.csproj.CoreCompileInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.MvcApplicationPartsAssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.MvcApplicationPartsAssemblyInfo.cache
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets\msbuild.Dapper in .Net 6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets\msbuild.build.Dapper in .Net 6.props
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dapper in .Net 6.props
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dapper in .Net 6.props
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\scopedcss\bundle\Dapper in .Net 6.styles.css
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.csproj.CopyComplete
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\refint\Dapper in .Net 6.dll
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.pdb
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\Dapper in .Net 6.genruntimeconfig.cache
+C:\MyProjects\MyRepo\C#\DotNet\Dapper in .Net 6\Dapper in .Net 6\obj\Debug\net6.0\ref\Dapper in .Net 6.dll
